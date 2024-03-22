@@ -1,0 +1,19 @@
+.titlebar {
+    width: 100vw;
+    height: 50px;
+    background-color: #1B1A55;
+    color: white;
+    margin: -8px;
+    position: fixed;
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+body {
+    background-color: #535C91;
+}
+
